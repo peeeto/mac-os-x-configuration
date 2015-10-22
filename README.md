@@ -19,9 +19,9 @@
 
 ## sdkman
 * curl -s http://get.sdkman.io | bash
-** sdk install gradle
-** sdk install groovy
-** sdk install grails
+* sdk install gradle
+* sdk install groovy
+* sdk install grails
 
 ## rvm
 * curl -sSL https://get.rvm.io | bash -s stable --rails
@@ -30,7 +30,7 @@
 * brew doctor
 * ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 * brew install gpg
-** gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+* gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
 * brew install wget
 * brew install git
 * brew install wine
@@ -45,15 +45,15 @@
 
 ## vim
 * vim ~/.vimrc
-** syntax on
-** set nu
-** set backspace=indent,eol,start
+* syntax on
+* set nu
+* set backspace=indent,eol,start
 
 ## node
 * brew install nodejs
-** npm search
+* npm search
 * npm install -g grunt-cli
-** vim ~/.bash_profile -> launchctl limit maxfiles 2048 2048 && ulimit -n 2048
+* vim ~/.bash_profile -> launchctl limit maxfiles 2048 2048 && ulimit -n 2048
 * npm install -g bower
 
 ## git
@@ -62,7 +62,7 @@
 
 ## jdk
 * 7,8
-** portecle - http://sourceforge.net/projects/portecle/files/latest/download
+* portecle - http://sourceforge.net/projects/portecle/files/latest/download
 
 ## ssh
 * mkdir ~/.ssh; cd ~/.ssh
