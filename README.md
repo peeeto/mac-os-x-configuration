@@ -1,4 +1,4 @@
-# mac-os-x-configuration - making mac os x usable
+# Making mac os x usable
 
 ## enable four finger desktop switch
 
